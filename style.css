@@ -1,0 +1,18 @@
+[class^=col] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.green {
+    background-color: rgb(15, 175, 114);
+}
+
+.gray {
+    background-color: rgb(59, 59, 59);
+}
+
+.black {
+    background-color: black;
+}
