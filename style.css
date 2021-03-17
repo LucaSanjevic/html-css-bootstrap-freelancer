@@ -1,8 +1,6 @@
 [class^=col] {
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: gray;
-    border: 1px solid black;
 }
 
 .green {
@@ -15,4 +13,20 @@
 
 .black {
     background-color: black;
+}
+
+.navbar-my-theme {
+    margin-bottom: 0;
+}
+
+.navbar-my-theme a {
+    color: white;
+}
+
+.my-img-container {
+    max-width: 200px;
+}
+
+.row-small {
+    max-width: 780px;
 }
