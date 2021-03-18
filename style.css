@@ -30,3 +30,31 @@
 .row-small {
     max-width: 780px;
 }
+
+.text-uppercase {
+    color: white;
+}
+
+.green2 {
+    color: green;
+}
+
+.glyphicon.glyphicon-star {
+    font-size: 30px;
+    display: inline-block;
+}
+
+hr {
+    display: inline-block;
+}
+
+.centered {
+    margin: 0 auto;
+    width: 800px;
+    position: relative;
+}
+
+.padding1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
